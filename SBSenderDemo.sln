@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSender", "SBSender\SBSender.csproj", "{2DB2BE2B-1191-4577-8A60-7B0778B256CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBShared", "SBShared\SBShared.csproj", "{3E6AEF06-E85C-4FC6-8A10-BF816DEBC032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBReceiver", "SBReceiver\SBReceiver.csproj", "{DE6B105E-827B-40C9-B087-AAAB9CB9A527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB2BE2B-1191-4577-8A60-7B0778B256CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB2BE2B-1191-4577-8A60-7B0778B256CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB2BE2B-1191-4577-8A60-7B0778B256CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB2BE2B-1191-4577-8A60-7B0778B256CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6AEF06-E85C-4FC6-8A10-BF816DEBC032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6AEF06-E85C-4FC6-8A10-BF816DEBC032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6AEF06-E85C-4FC6-8A10-BF816DEBC032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6AEF06-E85C-4FC6-8A10-BF816DEBC032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6B105E-827B-40C9-B087-AAAB9CB9A527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6B105E-827B-40C9-B087-AAAB9CB9A527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6B105E-827B-40C9-B087-AAAB9CB9A527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6B105E-827B-40C9-B087-AAAB9CB9A527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62CA78F2-BDA7-4EB5-8392-05AEE24AF9B7}
+	EndGlobalSection
+EndGlobal
